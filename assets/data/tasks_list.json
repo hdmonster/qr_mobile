@@ -1,0 +1,26 @@
+[
+    {
+        "task_uid" : "TASK004",
+        "title": "Resistance",
+        "created_at" : "Rabu, 20 Oct 2021",
+        "status" : "Sedang berjalan"
+    },
+    {
+        "task_uid" : "TASK003",
+        "title": "Tabrak Lari di Daerah Angker",
+        "created_at" : "Sabtu, 16 Oct 2021",
+        "status" : "Selesai"
+    },
+    {
+        "task_uid" : "TASK002",
+        "title": "Pencurian NFT",
+        "created_at" : "Selasa, 5 Oct 2021",
+        "status" : "Selesai"
+    },
+    {
+        "task_uid" : "TASK001",
+        "title": "Bencana gledek",
+        "created_at" : "Senin, 27 Aug 2021",
+        "status" : "Batal"
+    }
+]

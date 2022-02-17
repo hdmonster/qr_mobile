@@ -1,0 +1,17 @@
+[
+    {
+        "report_uid" : "REP003",
+        "created_at" : "16 Oct 2021 5:30PM",
+        "status" : "Sedang diperiksa"
+    },
+    {
+        "report_uid" : "REP002",
+        "created_at" : "15 Oct 2021 5:30PM",
+        "status" : "Diterima"
+    },
+    {
+        "report_uid" : "REP001",
+        "created_at" : "14 Oct 2021 5:30PM",
+        "status" : "Ditolak"
+    }
+]

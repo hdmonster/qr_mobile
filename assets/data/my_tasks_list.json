@@ -1,0 +1,26 @@
+[
+    {
+        "task_uid" : "TASK001",
+        "title": "Resistance",
+        "description":"Bertahan dari teroris",
+        "issued_at" : "Rabu, 20 Oct 2021",
+        "is_in_location" : false,
+        "is_accepted" : true
+    },
+    {
+        "task_uid" : "TASK002",
+        "title": "Evakuasi",
+        "description":"Evakuasi masyarakat yang terkena serangan dengan segera ke camp",
+        "issued_at" : "Senin, 18 Oct 2021",
+        "is_in_location" : false,
+        "is_accepted" : false
+    },
+    {
+        "task_uid" : "TASK003",
+        "title": "Hurricane",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+        "issued_at" : "Jumat, 15 Oct 2021",
+        "is_in_location" : false,
+        "is_accepted" : false
+    }
+]

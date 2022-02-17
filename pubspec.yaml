@@ -1,0 +1,43 @@
+name: qr_mobile
+version: 1.0.0+1
+publish_to: none
+description: app for quick response officer.
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.1
+  google_fonts: 2.1.0
+  http: 0.13.3
+  cached_network_image: 3.1.0+1
+  dotted_line: 3.1.0
+  dotted_border: 2.0.0+2
+  image_picker: ^0.8.4+1
+  url_launcher: ^6.0.10
+  flutter_switch: 0.3.2
+  location: 4.3.0
+  lottie: 1.2.1
+  sliding_up_panel: 2.0.0+1
+  get_storage: 2.0.3
+  device_info_plus: 3.2.1
+  stamp_image: 0.0.2
+  geocoding: 2.0.2
+  dio: 4.0.4
+  flutter_polyline_points: 1.0.0
+  google_maps_flutter: 2.1.1
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/
+    - assets/data/
+    - assets/lottie/
+    - assets/images/
+  uses-material-design: true
+

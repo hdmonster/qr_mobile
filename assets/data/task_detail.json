@@ -1,0 +1,16 @@
+{
+    "complaint_uid" : "COM004",
+    "title": "Resistance",
+    "short_description": "Bertahan dari teroris",
+    "guides" : [
+        "Beri pertolongan pertama kepada korban",
+        "Supply persenjataan dan amunisi",
+        "Siapkan persediaan"
+    ],
+    "informant_name" : "Dane Ikhsan",
+    "informant_phone" : "081237791878",
+    "informant_loc_latitude" : 37.751,
+    "informant_loc_longitude" : -97.822,
+    "issued_at" : "Rabu, 20 Oct 2021",
+    "status" : "Menuju lokasi"
+}
